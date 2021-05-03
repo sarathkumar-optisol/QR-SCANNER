@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="send_mail">Send As Mail</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_calender_event">Add Calender Event</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="copy_password">Copy Password</string>
+    <string name="open_url">Open url</string>
+    <string name="open_location">Open Location</string>
+</resources>
